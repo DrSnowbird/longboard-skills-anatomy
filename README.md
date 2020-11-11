@@ -12,8 +12,8 @@ This is still working progress - I will keep adding more materials while I am co
 
 # Anatomy of Sliding of Downhild/Freeride Longboarding
 - Download the PPTX Slide (still in development and will grow more pages soon) to view the Sliding Anatomy (Please help me to correct the mistake about what I explained in the slide if any. Thanks)
-  - ./Longboard-sliding-Anatomy_2020-11-04.pptx
-    - For now, I only have "heel-side (facing downhill)" sliding anatomy. I will add "toe-side" and other techniques' anatomy soon.
+  - ./phyics-of-longboard-techniques_v0.1_2020-11-11.pdf
+
 # (intial) Reference
 - My not-so-expert demostration of Carving like Snowboarding:
   - [Downhill/Freeride Longboard Carving Funs like Snowboarding (part 1/2)](https://www.youtube.com/watch?v=FJENsZABuOw)
